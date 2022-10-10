@@ -4,7 +4,7 @@ class Gradle < Formula
   # TODO: switch dependency to `openjdk` on 7.6.
   # Ref: https://github.com/gradle/gradle/issues/20372
   url "https://services.gradle.org/distributions/gradle-4.4.1-all.zip"
-  sha256 "db9c8211ed63f61f60292c69e80d89196f9eb36665e369e7f00ac4cc841c2219"
+  sha256 "dd9b24950dc4fca7d1ca5f1ccd57ca8c5b9eb407e3e6e0f48174fde4bb19ed06"
   license "Apache-2.0"
   revision 1
 
